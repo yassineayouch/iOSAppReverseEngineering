@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/IMusic10.0/iMusic%2010.0.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://is1.mzstatic.com/image/thumb/Purple117/v4/f7/95/b9/f795b98e-5bb5-4b0c-3a0e-c8f6439eb0db/source/175x175bb.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://is1.mzstatic.com/image/thumb/Purple117/v4/f7/95/b9/f795b98e-5bb5-4b0c-3a0e-c8f6439eb0db/source/175x175bb.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yassine.imusic</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>imusic / @yassineayouch</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
